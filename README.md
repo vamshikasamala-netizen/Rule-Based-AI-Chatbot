@@ -30,4 +30,4 @@ python chatbot.py
 - bye
 
 ## Author
-vamshika samala
+Vamshika samala
